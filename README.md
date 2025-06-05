@@ -4,24 +4,24 @@ My name is **Bogdan**, and I’m an aspiring data scientist passionate about mac
 
 ---
 
-### 💼 What I'm working on:
-- 🧠 Learning more about machine learning and deep learning
-- 🐍 Writing Python code using pandas, matplotlib, scikit-learn, tensorflow and more
-- 📊 Exploring data and visualizing insights
-- 🎯 Joining Kaggle competitions and personal projects
+### 🧠 What I'm working on:
+- Learning more about machine learning and deep learning
+-  Writing Python code using pandas, matplotlib, scikit-learn, tensorflow and more
+-  Exploring data and visualizing insights
+-  Joining Kaggle competitions and personal projects
 
 ---
 
 ### 🔍 Future Projects:
 I'm currently collecting astronomical data and working on the following deep learning projects:
 
-- 🌌 **Galaxy Morphology Classification (Hubble Types)**  
+-  **Galaxy Morphology Classification (Hubble Types)**  
   Training a Convolutional Neural Network (CNN) to classify galaxies into spiral, elliptical, irregular, and other types based on telescope images.
 
-- 🔭 **Gravitational Lens Detection**  
+-  **Gravitational Lens Detection**  
   Using CNNs to detect gravitational lensing effects — distortions of light caused by massive celestial objects like galaxies or black holes.
 
-- ✨ **Supernova Detection in Sky Surveys**  
+-  **Supernova Detection in Sky Surveys**  
   Developing a model to automatically identify supernovae by comparing pre- and post-event space images.
 
 
