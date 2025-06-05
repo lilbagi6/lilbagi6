@@ -6,7 +6,7 @@ My name is **Bogdan**, and I’m an aspiring data scientist passionate about mac
 
 ### 💻 What I'm working on:
 - Learning more about machine learning and deep learning
--  Writing Python code using pandas, matplotlib, scikit-learn, tensorflow and more
+-  Writing Python code using pandas, matplotlib, scikit-learn, tensorflow and other tools
 -  Exploring data and visualizing insights
 -  Joining Kaggle competitions and personal projects
 
