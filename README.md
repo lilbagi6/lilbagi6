@@ -12,7 +12,7 @@ My name is **Bogdan**, and I’m an aspiring data scientist passionate about mac
 
 ---
 
-### 🔍 Current Focus:
+### 🔍 Future Projects:
 I'm currently collecting astronomical data and working on the following deep learning projects:
 
 - 🌌 **Galaxy Morphology Classification (Hubble Types)**  
