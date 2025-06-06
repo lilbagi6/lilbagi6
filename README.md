@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Bogdan**, and I’m an aspiring data scientist passionate about machine learning, Python, and data analysis. I enjoy solving problems, learn more about AI, universe, technologies, science and participating in [Kaggle](https://www.kaggle.com/your_profile) competitions  
+My name is **Bogdan**, and I’m an aspiring data scientist passionate about machine and deep learning, AI, universe, physics, technologies, science and all that kind of stuff. Also participating in [Kaggle](https://www.kaggle.com/your_profile) competitions  
 
 ---
 
