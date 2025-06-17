@@ -5,6 +5,6 @@ My name is **Bogdan**, and I’m an aspiring data scientist passionate about mac
 ---
 
 ### Contact me:
-- Email: lil.bagi6@gmail.com
+- Email: bogdan.grygorencko@gmail.com
 - Telegram: [@Lilbagi](https://t.me/Lilbagi)
 - Kaggle: [BogdanG](https://www.kaggle.com/lilbagi)
